@@ -1,0 +1,16 @@
+{
+  "name": "villavoz",
+  "version": "1.0.0",
+  "description": "Un bot que habla para villedo y hace algunas cosas extra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "author": "Fernando Ponce",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
