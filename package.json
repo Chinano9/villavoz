@@ -8,7 +8,7 @@
     "test": "node test/test.js"
   },
   "author": "Fernando Ponce",
-  "license": "GPL-3.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
